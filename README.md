@@ -144,6 +144,8 @@ As you can see, it is rather easy to set up an IRC server on your Raspberry Pi. 
 All these and more will be uploaded soon...
 until then,
 hasta la vista 
+
+
 -B
 
 
