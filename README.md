@@ -22,6 +22,8 @@ By running your own server, you can maintain control over all your data, ranging
 * External monitor
 * Ethernet cable if not connecting over Wi-Fi
 
+Fire up your Linux machine and let us begin...
+
 # Getting started : Let us set up your Raspberry PI
 To start, connect the power cable and all the peripherals to your Raspberry Pi.Once your Raspberry Pi has booted, make sure it is connected to the Internet. Open the Terminal and type the following commands to update the system:
 
